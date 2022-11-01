@@ -1,0 +1,28 @@
+html,
+body {
+    font: 1em sans-serif;
+    display: flex;
+    justify-content: center;
+}
+
+#inputField {
+    width: 271px;
+    height: 25px;
+    border: 1px solid black;
+    outline: none;
+    font-size: 25px;
+    vertical-align: middle;
+}
+
+#addToDo {
+    height: 28px;
+    width: 31px;
+    border: 1px solid black;
+    vertical-align: middle;
+    font-size: 22px;
+    cursor: pointer;
+}
+
+.to-dos {
+    margin-top: 25px;
+}
